@@ -1,0 +1,20 @@
+---
+title: "_README"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## REFERENCE
+
+### HOW-TO
+
+* https://womendotcode.be/blog/how-to-make-blog-with-r-blogdown-and-github-pages/
+
+### THEMES
+
+* https://themes.gohugo.io/themes/hugo-theme-terminal/
+
+
