@@ -1,6 +1,6 @@
-baseurl: https://kwhkim.github.io/r_and_python
+baseurl: https://kwhkim.github.io/blogcontent_randpython
 languageCode: en-us
-publishdir: ../blogcontent_randpython
+publishdir: /docs
 title: R & Python 
 theme: hugo-lithium
 googleAnalytics: ''
@@ -18,7 +18,7 @@ menu:
     - name: About
       url: /about/
     - name: GitHub
-      url: https://github.com/rstudio/blogdown
+      url: https://github.com/kwhkim/blogcontent_randpython
     - name: Twitter
       url: https://twitter.com/kwnhkim
 params:
